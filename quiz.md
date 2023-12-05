@@ -64,7 +64,7 @@ class: centre, middle
 class: centre, middle
 # 12. What kind of boat do you see here and in which way is it traveling?
 
-![Light](boat-lights.png)
+![Boat light](boat-lights.png)
 
 ---
 
@@ -74,18 +74,19 @@ class: centre, middle
 ----
 
 class: centre, middle
-# 13. What does _FI R 3S_ on a nautical chart mean?
+# 14. What does _FI R 3S_ on a nautical chart mean?
+
 ![Light](light.png)
 
 ----
 
 class: centre, middle
-# 14. When are you allowed to travel on Store Grindøya?
+# 15. When are you allowed to travel on Store Grindøya?
 ![Grindøya](grindøya.png)
 
 ----
 
 class: centre, middle
-# 15. What equipment should you bring onto every trip?
+# 16. What equipment should you bring onto every trip?
 
 ----
