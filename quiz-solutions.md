@@ -9,42 +9,43 @@ class: centre, middle
 class: centre, middle
 # 1. How many active members are there in Trulle?
 
-353 according to NIF
+## 353 according to NIF
 
 ---
 
 class: centre, middle
 # 2. Which lights are legally required for a kayak in the dark?
 
-None. But is recommended to have a white light and a flash light.
+## None.
+But is recommended to have a white light and a flash light.
 
 ---
 
 class: centre, middle
 # 3. How many boats can you choose from when going on water?
 
-24
+## 24
 
 ---
 
 class: centre, middle
 # 4. Where were the first kayaks developed?
 
-Greenland
+## Greenland
 
 ---
 
 class: centre, middle
 # 5. How many m/s is wind of Beaufort 5?
 
-353
+## 8–10.7 m/s
 
 ---
 
 class: centre, middle
 # 6. How many km is Tromsøya rundt?
 
-24 km
+## 24 km
 
 ---
 
@@ -58,7 +59,7 @@ Nothing by itself. You have to use a map to figure out which sector is safe.
 class: centre, middle
 # 8. How much is the fee every member has to pay for the drysuit rental?
 
-50,- NOK
+## 50,- NOK
 
 ---
 
@@ -76,21 +77,21 @@ class: centre, middle
 class: centre, middle
 # 10. How many double kayaks can you find in the shed?
 
-2
+## 2
 
 ---
 
 class: centre, middle
 # 11. Which bus stop is closest to the boat shed?
 
-Sjølund
+## Sjølund
 
 ---
 
 class: centre, middle
 # 12. What kind of boat do you see here and in which way is it traveling?
 
-Motor boat (under 50 m) travelling in your direction
+## Motor boat (under 50 m) travelling in your direction
 ![Boat light](boat-lights.png)
 
 ---
@@ -98,7 +99,7 @@ Motor boat (under 50 m) travelling in your direction
 class: centre, middle
 # 14. When are you allowed to travel on Store Grindøya?
 
-	1. July - 30. April
+## 1. July - 30. April
 ![Grindøya](grindoya.png)
 
 ---
@@ -121,6 +122,6 @@ class: centre, middle
 class: centre, middle
 # 16. What does __Fl R 3s__ on a nautical chart mean?
 
-__Fl__ashing __R__ed light every __3s__
+## __Fl__ashing __R__ed light every __3s__
 
 ![Light](light.png)
