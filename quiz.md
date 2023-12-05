@@ -7,15 +7,15 @@ class: centre, middle
 ---
 ---
 
-## How many active members are there in Trulle?
+# How many active members are there in Trulle?
 
 ---
 
-## Which bus stop is closest to the boat shed?
+# Which bus stop is closest to the boat shed?
 
 ---
 
-## How many boats can you choose from when going on water?
+# How many boats can you choose from when going on water?
 
 ---
 
@@ -47,6 +47,14 @@ class: centre, middle
 
 ---
 
-## How many different course lines/categories do exist in 2023?
+## What do the different colours of a light house mean?
+
+---
+
+## Which lights are legally required for a kayak in the dark?
+
+---
+
+## Which seakayaking courses do exist in the Norwegian paddle association?
 
 
