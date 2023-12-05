@@ -1,40 +1,52 @@
 class: centre, middle
 
-# Simple example presentation
+# Julebord 2023
 
-## Author
+## TSI Trulle
+
+---
+---
+
+## How many active members are there in Trulle?
 
 ---
 
-## Another slide
-
-Try **F** and **P** keys.
-
-- A bullet point
-- Another convincing argument
+## Which bus stop is closest to the boat shed?
 
 ---
 
-## Code blocks are no problem
-
-Here we have some Python code:
-
-```python
-from itertools import cycle
-
-fizz = cycle(['', '', 'Fizz'])
-buzz = cycle(['', '', '', '', 'Buzz'])
-
-for i in range(1, 101):
-    print((next(fizz) + next(buzz)) or i)
-```
-
-[Source](https://github.com/olemb/nonsense/blob/master/fizzbuzz/itertools_cycle.py)
+## How many boats can you choose from when going on water?
 
 ---
 
-## Images
+## Where were the first kayaks developed?
 
-An image fetched from the web:
+---
 
-![Sample image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Young_Cicero_Reading.jpg/316px-The_Young_Cicero_Reading.jpg)
+## How many m/s is wind of Beaufort 5?
+
+---
+
+## How many km is Tromsøya rundt?
+
+---
+
+## How many double kayaks can you find in the shed?
+
+---
+
+## Which boat is marked by letters 3F? 
+
+---
+
+## How much is the fee every member has to pay for the drysuit rental?
+
+---
+
+## Which seakayaking courses do exist in the Norwegian paddle association?
+
+---
+
+## How many different course lines/categories do exist in 2023?
+
+
