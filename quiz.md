@@ -69,24 +69,20 @@ class: centre, middle
 ---
 
 class: centre, middle
-# 13. Which boat is marked by letters 3F? 
+# 14. When are you allowed to travel on Store Grindøya?
 
-----
+![Grindøya](grindoya.png)
+
+---
 
 class: centre, middle
-# 14. What does _FI R 3S_ on a nautical chart mean?
+# 15. What equipment should you bring onto every trip?
+
+---
+
+class: centre, middle
+# 16. What does __FI R 3s__ on a nautical chart mean?
 
 ![Light](light.png)
 
-----
-
-class: centre, middle
-# 15. When are you allowed to travel on Store Grindøya?
-![Grindøya](grindøya.png)
-
-----
-
-class: centre, middle
-# 16. What equipment should you bring onto every trip?
-
-----
+---
